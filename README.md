@@ -25,12 +25,6 @@ if you want to avoid use GitHub.
 
 ## Installation
 
-### Prerequisites
-
-- `mkdir`
-- `pv`
-- `tar`
-
 ### zsh (without plugin support)
 
 1. Clone project
